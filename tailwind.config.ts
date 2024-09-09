@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'custom-blue': '#1D4ED8',
+      },
+      fontFamily: {
+        'sans': ['Graphik', 'sans-serif'],
       },
     },
   },
